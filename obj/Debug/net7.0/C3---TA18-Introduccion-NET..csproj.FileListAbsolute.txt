@@ -1,0 +1,15 @@
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./bin/Debug/net7.0/C3---TA18-Introduccion-NET.
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./bin/Debug/net7.0/C3---TA18-Introduccion-NET..deps.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./bin/Debug/net7.0/C3---TA18-Introduccion-NET..runtimeconfig.json
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./bin/Debug/net7.0/C3---TA18-Introduccion-NET..dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./bin/Debug/net7.0/C3---TA18-Introduccion-NET..pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..csproj.AssemblyReference.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..AssemblyInfoInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..AssemblyInfo.cs
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..csproj.CoreCompileInputs.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/refint/C3---TA18-Introduccion-NET..dll
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..pdb
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/C3---TA18-Introduccion-NET..genruntimeconfig.cache
+/Users/jhonjr/Desktop/BootCamp Grupo Castillo/C3---TA18-Introduccion-NET./obj/Debug/net7.0/ref/C3---TA18-Introduccion-NET..dll
